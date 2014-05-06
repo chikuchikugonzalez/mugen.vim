@@ -501,4 +501,4 @@ syntax sync fromstart
 
 "-------------------------------------------------------------------------------
 " $Id$
-" vim: set ts=4 sw=4 ft=vim ff=dos nowrap expandtab:
+" vim: set ts=4 sw=4 ft=vim nowrap expandtab:
